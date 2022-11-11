@@ -6,3 +6,5 @@ while ((Toko <= 5, jumalahToko <= 5)) {
   Toko++;
   jumalahToko++;
 }
+
+while (condition) {}
